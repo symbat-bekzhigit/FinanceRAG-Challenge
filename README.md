@@ -38,6 +38,8 @@ Rewrote queries using OpenAI API to provide additional context and improve retri
 #### Step 4: Chunk Retrieval
 Retrieved the most relevant (i.e., top-10 similar chunks) from the database based on the similarity between the chunk embeddings and the question embedding.
 
+![](financerag_image.png)
+
 ***
 
 _Detailed report about our approach can be found in the **"Project Details.pptx"** file of this repository._
