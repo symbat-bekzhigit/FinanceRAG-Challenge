@@ -1,9 +1,5 @@
 # FinanceRAG-Challenge
 
-_This project was done as a submission for the 4th UNIST-KAIST-POSTECH AI & Data Science Competition in a team of two_
-
-_Kaggle Website for the competition: https://www.kaggle.com/competitions/4-ai-and-datascience-competition/overview_
-
 ## Description: 
 The Financial RAG Challenge aims to advance RAG systems that can efficiently handle large-scale financial documents. Participants are tasked with building a system that can retrieve relevant contexts from extensive financial datasets. In doing so, they must demonstrate the ability to handle real-world challenges, including financial terminology, industry-specific language, and numerical data. 
 
@@ -44,3 +40,6 @@ Retrieved the most relevant (i.e., top-10 similar chunks) from the database base
 
 _Detailed report about our approach can be found in the **"Project Details.pptx"** file of this repository._
 
+_This project was done as a submission for the 4th UNIST-KAIST-POSTECH AI & Data Science Competition in a team of two_
+
+_Kaggle Website for the competition: https://www.kaggle.com/competitions/4-ai-and-datascience-competition/overview_
