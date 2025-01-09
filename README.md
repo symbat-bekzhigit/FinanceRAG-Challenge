@@ -1,6 +1,7 @@
 # FinanceRAG-Challenge
 
-_This project was done as a submission for the 4th UNIST-KAIST-POSTECH AI & Data Science Competition in a team of two_<br /> 
+_This project was done as a submission for the 4th UNIST-KAIST-POSTECH AI & Data Science Competition in a team of two_
+
 _Kaggle Website for the competition: https://www.kaggle.com/competitions/4-ai-and-datascience-competition/overview_
 
 ## Description: 
