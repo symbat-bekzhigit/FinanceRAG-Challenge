@@ -3,7 +3,7 @@
 ## Description: 
 The Financial RAG Challenge aims to advance RAG systems that can efficiently handle large-scale financial documents. Participants are tasked with building a system that can retrieve relevant contexts from extensive financial datasets. In doing so, they must demonstrate the ability to handle real-world challenges, including financial terminology, industry-specific language, and numerical data. 
 
-The task is to retrieve the most relevant document corpus for a given query from a large document database. This process can be done by converting the query into an embedding and searching through a pre-indexed database of document embedding vectors. An effective search and reordering system that can prioritize documents similar to the query must be implemented.
+The task is to retrieve the most relevant document corpus for a given query from a large document database. This process can be done by converting the query into an embedding and searching through a pre-indexed database of document embedding vectors. 
 * Goal : The goal of the task is to maximize the retrieval accuracy (nDCG@10) by accurately ranking the top relevant contexts for each query. The evaluation criterion is determined by how well the system ranks the retrieved contexts compared to the actual correct answers.
 
 
